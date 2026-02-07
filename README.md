@@ -1,7 +1,8 @@
 
-# HTML Multi-Page Website (Structure Only)
+# HTML Multi-Page Website 
 
-
+Live Website(Project URL):  
+https://priya21662.github.io/Portfolio-website-sample/
 
 This project is from **roadmap.sh** and is designed to help beginners understand how to structure a website using **only HTML**. 
 
@@ -48,8 +49,8 @@ project-root/
 
 ---
 
-Live Website(Project URL):  
-https://priya21662.github.io/Portfolio-website-sample/
+
+For detailed guidance on creating a basic HTML website, check out  roadmap.sh. Basic HTML Website.
 
 
 
