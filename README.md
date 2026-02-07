@@ -50,7 +50,8 @@ project-root/
 ---
 
 
-For detailed guidance on creating a basic HTML website, check out  roadmap.sh. Basic HTML Website.
+For detailed guidance on creating a basic HTML website, check out 
+(https://roadmap.sh/projects/basic-html-website).
 
 
 
